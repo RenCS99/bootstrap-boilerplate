@@ -1,27 +1,27 @@
-# bootstrap-boilerplate
+### bootstrap-boilerplate
 
 20220818T012100
 Author: Rene Cueva Salas
 
-# H1 Project Title
+# Project Title
 Bootstrap Boilerplate
 
-### h3 Description
+### Description
 This is challenge 6 of week 5 of the Bitwise Web Development Program
 
-### h3 Prerequesites
+### Prerequesites
 Bootstrap Files
 
-### h3 Dependencies:
+### Dependencies:
 css/styles.css - for the styling of the index.html
 
-### h3 Contributing
+### Contributing
 Issue Tracker: github.com/bootstrap-boilerplate/issues
 
-### h3 License
+### License
 cc
 
-### h3 Citation
+### Citation
 
-### h3 Contact
+### Contact
 rcuevasalas99@gmail.com
